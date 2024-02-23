@@ -1,5 +1,5 @@
 # HiFi-human-variant-install-guide
-A How-To guide on installing a local version of the HiFi-human-WGS-WDL pipeline on an AWS EC2 instance. There are many ways to do this, however this is how I have set it up. This will be superceded once AWS Genomics CLI is functioning again, but for now, we run this on a single local instance, with a minimum of 64 cores, and 256Gb of memory. I use a clean Ubuntu 20.04 AMI.
+A How-To guide on installing a local version of the HiFi-human-WGS-WDL pipeline on an AWS EC2 instance. There are many ways to do this, however this is how I have set it up. This will be superceded once AWS Genomics CLI is functioning again, but for now, we run this on a single local instance, with a minimum of 64 cores, and 256Gb of memory. I use a clean Ubuntu 20.04 AMI. See the 'input.example.json' for an example sample sheet for running the pipeline.
 
 # Install Guide
 
